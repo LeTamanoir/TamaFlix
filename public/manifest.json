@@ -1,0 +1,25 @@
+{
+  "short_name": "TamaFlix",
+  "name": "TamaFlix",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/login",
+  "display": "standalone",
+  "theme_color": "#212529",
+  "background_color": "#ffffff"
+}
